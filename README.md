@@ -26,6 +26,12 @@
 
 ### 2026 年 7 月 13 号添加
 
+#### capybara-zy - [Github](https://github.com/capybara-zy)
+* :white_check_mark: [小野AI](https://xiaoye.io/)：开源多模态 AI 内容创作平台，支持 Gemini、Seedream、Seedance 和 Veo 等模型生成图片与视频，并提供电商图片批量生成和提示词优化 - [更多介绍](https://github.com/capybara-zy/xiaoye-ai)
+
+#### yaowei - [Github](https://github.com/lumian2015)
+* :white_check_mark: [MeshRefinery](https://meshrefinery.com/)：在浏览器中修复、转换和优化 3D 文件，免费使用，文件不离开本地设备
+
 #### yeguozi - [Github](https://github.com/yeguozi)
 * :white_check_mark: [野果子](https://www.yeguozi.com)：电影家居美学灵感库，从精选剧照提取墙面软装配色参考，支持按色彩浏览和配色长图分享，覆盖 87 部电影 4400+ 张截图 - [更多介绍](https://github.com/yeguozi/yeguozi)
 
