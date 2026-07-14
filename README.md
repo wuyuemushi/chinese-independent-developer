@@ -24,6 +24,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 15 号添加
+
+#### ruanqizhen - [Github](https://github.com/ruanqizhen/ruanqizhen)
+* :white_check_mark: [回音堂](https://anachron.qizhen.xyz/)：借助 AI，用对话的方式讲述历史故事 - [更多介绍](https://github.com/ruanqizhen/anachron)
+
+#### newbietan - [Github](https://github.com/newbietan)
+* :white_check_mark: [CloudSSH](https://ssh.newbietan.cn)：打开浏览器即可连接和管理自己的所有服务器，连接信息云端同步，内置 SFTP 文件管理与 AI 运维助手 - [更多介绍](https://github.com/newbietan/CloudSSH)
+
 ### 2026 年 7 月 14 号添加
 
 #### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
